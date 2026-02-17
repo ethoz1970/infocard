@@ -59,34 +59,49 @@ Senior AI/ML Engineer with 10+ years of software development experience and deep
 - Designed scalable cloud architecture ensuring high availability and security compliance
 ---
 
-## Skills
+## Technical Skills
 
-| Category | Skills |
-|---|---|
-| Executive Leadership | Strategy and operating model design, org design, team building, executive alignment, portfolio prioritization, budgeting, stakeholder management, mentorship |
-| AI Leadership | Enterprise AI strategy, AI governance in regulated environments, use-case discovery and value sizing, adoption planning, human-in-the-loop workflow design, AI productization, impact measurement |
-| Applied AI | Generative AI solution design, NLP capability integration, predictive analytics, intelligent automation, fit-for-purpose evaluation, workflow redesign with quality preservation |
-| Product & Platform | Product strategy and roadmaps, platform modernization direction, delivery cadence and quality systems, time-to-market improvement, build vs buy decisions, vendor strategy |
-| M&A | Technical diligence support, capability mapping, integration planning and execution, post-merger platform and team consolidation |
-| Operations | Process optimization, metrics-driven execution, continuous improvement, Lean practices |
+**AI/ML:** RAG architecture, LLM integration, prompt engineering, embeddings, semantic search, LLM-to-LLM testing, multi-agent systems
+
+**LLMs:** OpenAI GPT-4, Anthropic Claude, Meta Llama 3.1, Mistral, fine-tuning, token optimization
+
+**Vector Databases:** Pinecone, ChromaDB, FAISS, embedding-based semantic search, vector indexing
+
+**Frameworks:** LangChain, LlamaIndex, Hugging Face Transformers, OpenAI API, Anthropic API
+
+**Languages:** Python, JavaScript/TypeScript, PHP, SQL
+
+**Cloud/Infrastructure:** AWS, Azure, GCP, Docker, Kubernetes, CI/CD, Bicep, ARM templates
+
+---
+
+## AI Projects
+
+### Maurice — RAG-Powered Enterprise Sales Platform
+*Blacksky LLC*
+
+- Architected end-to-end RAG pipeline using embeddings, Pinecone vector search, and LLM orchestration
+- Implemented semantic search over enterprise documents with ChromaDB for prototyping and Pinecone for production
+- Built Python backend integrating GPT-4 and Claude APIs with custom prompt engineering for sales context
+- Designed multi-turn conversation memory and context management for coherent sales interactions
+
+### Ife — AI Coding Assistant
+*Blacksky LLC*
+
+- Developed RAG-based coding assistant using LangChain for document retrieval and code generation
+- Implemented vector embeddings for codebase search using ChromaDB with custom chunking strategies
+- Built real-time code suggestion engine with streaming LLM responses
+- Pioneered LLM-to-LLM testing methodology using Ife to validate Maurice outputs at scale
+
+### SlimeHive — Swarm Robotics Platform
+*Blacksky LLC*
+
+- Built distributed coordination system for swarm robotics using Python and MQTT
+- Implemented decentralized decision-making algorithms across Raspberry Pi nodes
+- Designed BLE mesh networking for inter-robot communication
 
 ---
 
-## Domains
-
-- Government and federal contracting
-- Tribal government and tribal enterprises
-- SaaS for small business marketing
-- Managed services and technology services delivery
-- Hospitality technology and guest experience
-- Healthcare experience enablement
-- Nonprofit operations and multi-campus growth environments
-- Crowd-sourced inspections for insurance, investment, and consumer services
-- Employee engagement, recognition, and retention platforms
-- Strategic partnerships and ecosystems (including Apple and Airbnb)
-- M&A-driven capability expansion in AI/ML and NLP
-
----
 
 ## Education
 
