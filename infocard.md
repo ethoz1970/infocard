@@ -1,7 +1,7 @@
 ---
 name: Mario Moorhead
 title: Technology Executive | AI Strategy & Implementation
-location: OBaltimore City, MD
+location: Baltimore City, MD
 summary: Executive technology leader focused on turning AI strategy into production capability across SaaS, services, government, and regulated environments. Proven builder of teams, platforms, and partnerships, including M&A-driven capability expansion and turnaround execution.
 tags: [leadership,ai,strategy, product, speaking, m&a, automation, saas, govcon, tribal, hospitality, healthcare]
 open_to: [consulting, speaking, advisory]
@@ -9,10 +9,10 @@ open_to: [consulting, speaking, advisory]
 
 # Mario Moorhead
 
-**Technology Executive | AI Strategy & Implementation** · Oklahoma City, OK  
+**Technology Executive | AI Strategy & Implementation** · Baltimore City, OK  
 [mario@blackskymedia.org](mailto:mario@blackskymedia.org)  
 <!-- Add links if you want them shown: -->
-[GitHub](https://github.com/ethoz1970) · [LinkedIn](https://linkedin.com/in/ethoz1970)
+[Blacksky](https://blackskymedia.org) · [Maurice AI](https://blacksky-chat.us/demo) . [GitHub](https://github.com/ethoz1970) · [LinkedIn](https://linkedin.com/in/ethoz1970)
 
 
 ---
@@ -33,14 +33,14 @@ Senior AI/ML Engineer with 10+ years of software development experience and deep
 - Partnered with executive leadership and sales to package AI capabilities into commercial offerings, supporting retention, expansion, and new market entry.
 - Established governance patterns appropriate for regulated environments.
 
-### Head of Innovation & Strategic Partnerships - Tailwind (Oklahoma City, OK)
+### Head of Innovation & Strategic Partnerships - Tailwind (Baltimore City, OK)
 *2019 – 2023*
 
 - Built and executed technology roadmaps centered on generative AI and advanced analytics to strengthen adoption and competitive position.
 - Identified, negotiated, and integrated multiple acquisitions in NLP, machine learning, and neural-network capabilities to accelerate the roadmap.
 - Led global product and engineering teams and shortened the innovation cycle from idea to shipped capability.
 
-### Chief Technology Officer - Monscierge (Oklahoma City, OK)
+### Chief Technology Officer - Monscierge (Baltimore City, OK)
 *2018 – 2019*
 
 - Rebuilt the technology organization, restoring delivery effectiveness and morale within two quarters.
@@ -54,14 +54,14 @@ Senior AI/ML Engineer with 10+ years of software development experience and deep
 - Built analytics-driven systems to forecast growth, inform real-estate decisions, and improve resource allocation across campuses.
 - Delivered technology improvements that increased responsiveness for hospital visits and crisis situations.
 
-### Chief Technology Officer - WeGoLook (Oklahoma City, OK)
+### Chief Technology Officer - WeGoLook (Baltimore City, OK)
 *2014 – 2016*
 
 - Built the technology division from scratch (team, platform, and infrastructure), creating the foundation that contributed to a $40M acquisition.
 - Architected a flexible stack blending custom software with best-in-class commercial tools across finance, logistics, communications, and HR.
 - Translated executive business priorities into technology roadmaps that expanded operational capacity and reach.
 
-### Vice President of Technology - MTM Recognition (Oklahoma City, OK)
+### Vice President of Technology - MTM Recognition (Baltimore City, OK)
 *2002 – 2014*
 
 - Conceived and launched an employee engagement platform generating $35M+ in annual revenue, over 35% of total company earnings.
@@ -101,7 +101,7 @@ Senior AI/ML Engineer with 10+ years of software development experience and deep
 
 ## Education
 
-Coursework in Civil Engineering - University of Oklahoma (Norman, OK)  
+Coursework in Civil Engineering - University of MDlahoma (Norman, OK)  
 Lean Six Sigma Black Belt - Management and Strategy Institute (Downingtown, PA)
 
 ---
@@ -112,5 +112,5 @@ Lean Six Sigma Black Belt - Management and Strategy Institute (Downingtown, PA)
 - Contributing author, *The AI Advantage: Thriving Within Civilization's Next Big Disruption* (2025); work featured in Wired, Inc., Forbes, and Entrepreneur
 - Conference speaker across North America and Europe on AI implementation, employee engagement, and technology strategy
 - Inc. 500 Fastest Growing Companies (WeGoLook)
-- Most Influential People, 405 Business Magazine; Leadership Oklahoma City, Class XXXIII
+- Most Influential People, 405 Business Magazine; Leadership Baltimore City, Class XXXIII
 - Distinguished Guest Lecturer, University of Oklahoma
