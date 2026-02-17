@@ -3,8 +3,8 @@ name: Mario Moorhead
 title: Technology Executive | AI Strategy & Implementation
 location: Baltimore City, MD
 summary: Executive technology leader focused on turning AI strategy into production capability across SaaS, services, government, and regulated environments. Proven builder of teams, platforms, and partnerships, including M&A-driven capability expansion and turnaround execution.
-tags: [leadership,ai,strategy, product, speaking, m&a, automation, saas, govcon, tribal, hospitality, healthcare]
-open_to: [consulting, speaking, advisory]
+tags: [python, react, aws, devops,cloud intergrations,AI architecture,AI integration, Iot, robotics, drupal, devOps, CI pipelines, soundscapes, soundtracks]
+open_to: [Cloud intergrations,AI architecture,AI integration]
 ---
 
 # Mario Moorhead
@@ -12,7 +12,7 @@ open_to: [consulting, speaking, advisory]
 **Technology Executive | AI Strategy & Implementation** · Baltimore City, OK  
 [mario@blackskymedia.org](mailto:mario@blackskymedia.org)  
 <!-- Add links if you want them shown: -->
-[Blacksky](https://blackskymedia.org) · [Maurice AI](https://blacksky-chat.us/demo) . [GitHub](https://github.com/ethoz1970) · [LinkedIn](https://linkedin.com/in/ethoz1970)
+[Blacksky](https://blackskymedia.org) . [Maurice AI](https://blacksky-chat.us/demo) . [GitHub](https://github.com/ethoz1970) · [LinkedIn](https://linkedin.com/in/ethoz1970)
 
 
 ---
@@ -25,49 +25,38 @@ Senior AI/ML Engineer with 10+ years of software development experience and deep
 
 ## Experience
 
-### Head of Innovation and Growth - Doyon Technology Group (Fairbanks, AK)
-*2023 – Present*
+### Senior AI/Full Stack Developer | FSIS/USDA
+*July 2024 – Present*
 
-- Designed and executed DTG’s first unified AI strategy, converting isolated experiments into production capabilities serving multiple business units and customer sectors.
-- Deployed generative AI, predictive analytics, and intelligent automation that reduced manual effort by 30%+ in targeted workflows while preserving service quality.
-- Partnered with executive leadership and sales to package AI capabilities into commercial offerings, supporting retention, expansion, and new market entry.
-- Established governance patterns appropriate for regulated environments.
+- Architected AI-powered translation platform integrating LLM capabilities with Python backend
+- Deployed containerized ML services on Kubernetes with Bicep infrastructure-as-code
+- Implemented Redis caching and PostgreSQL for high-performance AI inference pipelines
+- Led mobile accessibility testing for Turkey Calculator across dozens of physical devices
 
-### Head of Innovation & Strategic Partnerships - Tailwind (Baltimore City, OK)
-*2019 – 2023*
+### Solutions Architect | Blue Cadet / National Gallery of Art
+*June 2024 – August 2024*
 
-- Built and executed technology roadmaps centered on generative AI and advanced analytics to strengthen adoption and competitive position.
-- Identified, negotiated, and integrated multiple acquisitions in NLP, machine learning, and neural-network capabilities to accelerate the roadmap.
-- Led global product and engineering teams and shortened the innovation cycle from idea to shipped capability.
+- Deployed Azure infrastructure using ARM templates with CI/CD automation
+- Architected API-driven integrations between legacy and modern systems
 
-### Chief Technology Officer - Monscierge (Baltimore City, OK)
-*2018 – 2019*
+### Senior Full Stack Developer | ICF / USAID
+*December 2022 – October 2023*
 
-- Rebuilt the technology organization, restoring delivery effectiveness and morale within two quarters.
-- Developed product roadmaps and go-to-market plans that improved time-to-market and positioned the company for acquisition.
-- Repaired and strengthened strategic partnerships with Apple and Airbnb, converting strained relationships into active advocacy.
+- Built Python-based backend services and REST APIs for enterprise data platform on AWS
+- Implemented data pipelines and system integrations for international development applications
+- Led migration from legacy PHP to modern Python-based microservices architecture
 
-### Chief Information Officer - Victory Family Church (Norman, OK)
-*2016 – 2018*
+### Senior Application Architect | Infosys / Vanguard
+*November 2020 – September 2021*
 
-- Designed scalable infrastructure that absorbed rapid growth without service disruption.
-- Built analytics-driven systems to forecast growth, inform real-estate decisions, and improve resource allocation across campuses.
-- Delivered technology improvements that increased responsiveness for hospital visits and crisis situations.
+- Architected enterprise applications for financial services with Python and cloud-native technologies
+- Led cross-functional teams delivering scalable solutions in regulated environment
 
-### Chief Technology Officer - WeGoLook (Baltimore City, OK)
-*2014 – 2016*
+### Cloud Solutions Architect | Diamond IS / U.S. Treasury
+*April 2020 – November 2020*
 
-- Built the technology division from scratch (team, platform, and infrastructure), creating the foundation that contributed to a $40M acquisition.
-- Architected a flexible stack blending custom software with best-in-class commercial tools across finance, logistics, communications, and HR.
-- Translated executive business priorities into technology roadmaps that expanded operational capacity and reach.
-
-### Vice President of Technology - MTM Recognition (Baltimore City, OK)
-*2002 – 2014*
-
-- Conceived and launched an employee engagement platform generating $35M+ in annual revenue, over 35% of total company earnings.
-- Built and mentored teams spanning software development, business analysis, network operations, and technical support.
-- Founded an internal R&D division whose initiatives drove a 14% increase in organizational efficiency.
-
+- Led Azure cloud migration using Azure DevOps, ARM templates, and automated deployment pipelines
+- Designed scalable cloud architecture ensuring high availability and security compliance
 ---
 
 ## Skills
@@ -101,8 +90,22 @@ Senior AI/ML Engineer with 10+ years of software development experience and deep
 
 ## Education
 
-Coursework in Civil Engineering - University of MDlahoma (Norman, OK)  
-Lean Six Sigma Black Belt - Management and Strategy Institute (Downingtown, PA)
+**MS Exhibition Design** — Fashion Institute of Technology (2008)
+
+**MSEd Education** — Pace University (2004)
+
+**BS Communications** — Parsons School of Design (1993)
+
+---
+
+## Certifications
+
+- Acquia Certified Drupal Developer
+
+---
+
+*A complete list of my work history is available upon request.*
+
 
 ---
 
