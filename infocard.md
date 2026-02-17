@@ -1,7 +1,17 @@
 
+---
+
+name: Your Name
+title: Senior Engineer
+location: City, ST
+summary: Cloud architect specializing in AWS, Kubernetes, and infrastructure automation.
+tags: [python, react, aws, devops]
+open_to: [full-time, contract, consulting]
+
+---
 
 # Mario Moorhead
-## Senior AI/ML Engineer | RAG Systems & LLM Architecture**
+## Senior AI/ML Engineer | RAG Systems & LLM Architecture
 
 ### mario@blackskymedia.org | Washington DC Metro Area | Remote (US)
 
