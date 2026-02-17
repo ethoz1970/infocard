@@ -1,7 +1,9 @@
-# Mario Moorhead
-**Senior AI/ML Engineer | RAG Systems & LLM Architecture**
 
-mario@blackskymedia.org | Washington DC Metro Area | Remote (US)
+
+# Mario Moorhead
+## Senior AI/ML Engineer | RAG Systems & LLM Architecture**
+
+### mario@blackskymedia.org | Washington DC Metro Area | Remote (US)
 
 ---
 
