@@ -1,7 +1,7 @@
 ---
 name: Mario Moorhead
 title: Technology Executive | AI Strategy & Implementation
-location: Oklahoma City, OK
+location: OBaltimore City, MD
 summary: Executive technology leader focused on turning AI strategy into production capability across SaaS, services, government, and regulated environments. Proven builder of teams, platforms, and partnerships, including M&A-driven capability expansion and turnaround execution.
 tags: [leadership,ai,strategy, product, speaking, m&a, automation, saas, govcon, tribal, hospitality, healthcare]
 open_to: [consulting, speaking, advisory]
@@ -10,16 +10,16 @@ open_to: [consulting, speaking, advisory]
 # Mario Moorhead
 
 **Technology Executive | AI Strategy & Implementation** · Oklahoma City, OK  
-[gstarling@gmail.com](mailto:gstarling@gmail.com)  
-<!-- Add links if you want them shown:
-[GitHub](https://github.com/yourhandle) · [LinkedIn](https://linkedin.com/in/yourhandle)
--->
+[mario@blackskymedia.org](mailto:mario@blackskymedia.org)  
+<!-- Add links if you want them shown: -->
+[GitHub](https://github.com/ethoz1970) · [LinkedIn](https://linkedin.com/in/ethoz1970)
+
 
 ---
 
 ## About
 
-20+ years building and scaling technology organizations across SaaS, managed services, federal contracting, and tribal government sectors. Track record of creating platforms that generate tens of millions in revenue, leading teams through successful acquisitions, and turning AI strategy into production-grade capability. Two-time Innovator of the Year. Contributing author featured in Wired, Inc., Forbes, and Entrepreneur.
+Senior AI/ML Engineer with 10+ years of software development experience and deep expertise in building production RAG systems and LLM-powered applications. Hands-on experience implementing RAG pipelines using embeddings, vector search (Pinecone, ChromaDB), and multiple LLM providers (GPT-4, Claude, Llama, Mistral). Creator of production AI tools including a RAG-powered enterprise sales platform and an AI coding assistant. Pioneer of LLM-to-LLM testing methodology for automated AI quality assurance.
 
 ---
 

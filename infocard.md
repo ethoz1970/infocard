@@ -1,122 +1,116 @@
-
 ---
-
-name: Your Name
-title: Senior Engineer
-location: City, ST
-summary: Cloud architect specializing in AWS, Kubernetes, and infrastructure automation.
-tags: [python, react, aws, devops]
-open_to: [full-time, contract, consulting]
-
+name: Mario Moorhead
+title: Technology Executive | AI Strategy & Implementation
+location: OBaltimore City, MD
+summary: Executive technology leader focused on turning AI strategy into production capability across SaaS, services, government, and regulated environments. Proven builder of teams, platforms, and partnerships, including M&A-driven capability expansion and turnaround execution.
+tags: [leadership,ai,strategy, product, speaking, m&a, automation, saas, govcon, tribal, hospitality, healthcare]
+open_to: [consulting, speaking, advisory]
 ---
 
 # Mario Moorhead
-## Senior AI/ML Engineer | RAG Systems & LLM Architecture
 
-### mario@blackskymedia.org | Washington DC Metro Area | Remote (US)
+**Technology Executive | AI Strategy & Implementation** · Oklahoma City, OK  
+[mario@blackskymedia.org](mailto:mario@blackskymedia.org)  
+<!-- Add links if you want them shown: -->
+[GitHub](https://github.com/ethoz1970) · [LinkedIn](https://linkedin.com/in/ethoz1970)
+
 
 ---
 
-## Professional Summary
+## About
 
 Senior AI/ML Engineer with 10+ years of software development experience and deep expertise in building production RAG systems and LLM-powered applications. Hands-on experience implementing RAG pipelines using embeddings, vector search (Pinecone, ChromaDB), and multiple LLM providers (GPT-4, Claude, Llama, Mistral). Creator of production AI tools including a RAG-powered enterprise sales platform and an AI coding assistant. Pioneer of LLM-to-LLM testing methodology for automated AI quality assurance.
 
 ---
 
-## Technical Skills
+## Experience
 
-**AI/ML:** RAG architecture, LLM integration, prompt engineering, embeddings, semantic search, LLM-to-LLM testing, multi-agent systems
+### Head of Innovation and Growth - Doyon Technology Group (Fairbanks, AK)
+*2023 – Present*
 
-**LLMs:** OpenAI GPT-4, Anthropic Claude, Meta Llama 3.1, Mistral, fine-tuning, token optimization
+- Designed and executed DTG’s first unified AI strategy, converting isolated experiments into production capabilities serving multiple business units and customer sectors.
+- Deployed generative AI, predictive analytics, and intelligent automation that reduced manual effort by 30%+ in targeted workflows while preserving service quality.
+- Partnered with executive leadership and sales to package AI capabilities into commercial offerings, supporting retention, expansion, and new market entry.
+- Established governance patterns appropriate for regulated environments.
 
-**Vector Databases:** Pinecone, ChromaDB, FAISS, embedding-based semantic search, vector indexing
+### Head of Innovation & Strategic Partnerships - Tailwind (Oklahoma City, OK)
+*2019 – 2023*
 
-**Frameworks:** LangChain, LlamaIndex, Hugging Face Transformers, OpenAI API, Anthropic API
+- Built and executed technology roadmaps centered on generative AI and advanced analytics to strengthen adoption and competitive position.
+- Identified, negotiated, and integrated multiple acquisitions in NLP, machine learning, and neural-network capabilities to accelerate the roadmap.
+- Led global product and engineering teams and shortened the innovation cycle from idea to shipped capability.
 
-**Languages:** Python, JavaScript/TypeScript, PHP, SQL
+### Chief Technology Officer - Monscierge (Oklahoma City, OK)
+*2018 – 2019*
 
-**Cloud/Infrastructure:** AWS, Azure, GCP, Docker, Kubernetes, CI/CD, Bicep, ARM templates
+- Rebuilt the technology organization, restoring delivery effectiveness and morale within two quarters.
+- Developed product roadmaps and go-to-market plans that improved time-to-market and positioned the company for acquisition.
+- Repaired and strengthened strategic partnerships with Apple and Airbnb, converting strained relationships into active advocacy.
+
+### Chief Information Officer - Victory Family Church (Norman, OK)
+*2016 – 2018*
+
+- Designed scalable infrastructure that absorbed rapid growth without service disruption.
+- Built analytics-driven systems to forecast growth, inform real-estate decisions, and improve resource allocation across campuses.
+- Delivered technology improvements that increased responsiveness for hospital visits and crisis situations.
+
+### Chief Technology Officer - WeGoLook (Oklahoma City, OK)
+*2014 – 2016*
+
+- Built the technology division from scratch (team, platform, and infrastructure), creating the foundation that contributed to a $40M acquisition.
+- Architected a flexible stack blending custom software with best-in-class commercial tools across finance, logistics, communications, and HR.
+- Translated executive business priorities into technology roadmaps that expanded operational capacity and reach.
+
+### Vice President of Technology - MTM Recognition (Oklahoma City, OK)
+*2002 – 2014*
+
+- Conceived and launched an employee engagement platform generating $35M+ in annual revenue, over 35% of total company earnings.
+- Built and mentored teams spanning software development, business analysis, network operations, and technical support.
+- Founded an internal R&D division whose initiatives drove a 14% increase in organizational efficiency.
 
 ---
 
-## AI Projects
+## Skills
 
-### Maurice — RAG-Powered Enterprise Sales Platform
-*Blacksky LLC*
-
-- Architected end-to-end RAG pipeline using embeddings, Pinecone vector search, and LLM orchestration
-- Implemented semantic search over enterprise documents with ChromaDB for prototyping and Pinecone for production
-- Built Python backend integrating GPT-4 and Claude APIs with custom prompt engineering for sales context
-- Designed multi-turn conversation memory and context management for coherent sales interactions
-
-### Ife — AI Coding Assistant
-*Blacksky LLC*
-
-- Developed RAG-based coding assistant using LangChain for document retrieval and code generation
-- Implemented vector embeddings for codebase search using ChromaDB with custom chunking strategies
-- Built real-time code suggestion engine with streaming LLM responses
-- Pioneered LLM-to-LLM testing methodology using Ife to validate Maurice outputs at scale
-
-### SlimeHive — Swarm Robotics Platform
-*Blacksky LLC*
-
-- Built distributed coordination system for swarm robotics using Python and MQTT
-- Implemented decentralized decision-making algorithms across Raspberry Pi nodes
-- Designed BLE mesh networking for inter-robot communication
+| Category | Skills |
+|---|---|
+| Executive Leadership | Strategy and operating model design, org design, team building, executive alignment, portfolio prioritization, budgeting, stakeholder management, mentorship |
+| AI Leadership | Enterprise AI strategy, AI governance in regulated environments, use-case discovery and value sizing, adoption planning, human-in-the-loop workflow design, AI productization, impact measurement |
+| Applied AI | Generative AI solution design, NLP capability integration, predictive analytics, intelligent automation, fit-for-purpose evaluation, workflow redesign with quality preservation |
+| Product & Platform | Product strategy and roadmaps, platform modernization direction, delivery cadence and quality systems, time-to-market improvement, build vs buy decisions, vendor strategy |
+| M&A | Technical diligence support, capability mapping, integration planning and execution, post-merger platform and team consolidation |
+| Operations | Process optimization, metrics-driven execution, continuous improvement, Lean practices |
 
 ---
 
-## Professional Experience
+## Domains
 
-### Senior AI/Full Stack Developer | FSIS/USDA
-*July 2024 – Present*
-
-- Architected AI-powered translation platform integrating LLM capabilities with Python backend
-- Deployed containerized ML services on Kubernetes with Bicep infrastructure-as-code
-- Implemented Redis caching and PostgreSQL for high-performance AI inference pipelines
-- Led mobile accessibility testing for Turkey Calculator across dozens of physical devices
-
-### Solutions Architect | Blue Cadet / National Gallery of Art
-*June 2024 – August 2024*
-
-- Deployed Azure infrastructure using ARM templates with CI/CD automation
-- Architected API-driven integrations between legacy and modern systems
-
-### Senior Full Stack Developer | ICF / USAID
-*December 2022 – October 2023*
-
-- Built Python-based backend services and REST APIs for enterprise data platform on AWS
-- Implemented data pipelines and system integrations for international development applications
-- Led migration from legacy PHP to modern Python-based microservices architecture
-
-### Senior Application Architect | Infosys / Vanguard
-*November 2020 – September 2021*
-
-- Architected enterprise applications for financial services with Python and cloud-native technologies
-- Led cross-functional teams delivering scalable solutions in regulated environment
-
-### Cloud Solutions Architect | Diamond IS / U.S. Treasury
-*April 2020 – November 2020*
-
-- Led Azure cloud migration using Azure DevOps, ARM templates, and automated deployment pipelines
-- Designed scalable cloud architecture ensuring high availability and security compliance
+- Government and federal contracting
+- Tribal government and tribal enterprises
+- SaaS for small business marketing
+- Managed services and technology services delivery
+- Hospitality technology and guest experience
+- Healthcare experience enablement
+- Nonprofit operations and multi-campus growth environments
+- Crowd-sourced inspections for insurance, investment, and consumer services
+- Employee engagement, recognition, and retention platforms
+- Strategic partnerships and ecosystems (including Apple and Airbnb)
+- M&A-driven capability expansion in AI/ML and NLP
 
 ---
 
 ## Education
 
-**MS Exhibition Design** — Fashion Institute of Technology (2008)
-
-**MSEd Education** — Pace University (2004)
-
-**BS Communications** — Parsons School of Design (1993)
+Coursework in Civil Engineering - University of Oklahoma (Norman, OK)  
+Lean Six Sigma Black Belt - Management and Strategy Institute (Downingtown, PA)
 
 ---
 
-## Certifications
+## Recognition & Publications
 
-- Acquia Certified Drupal Developer
-
----
-
-*A complete list of my work history is available upon request.*
+- Innovator of the Year, Journal Record (2013, 2015), only two-time recipient in award history
+- Contributing author, *The AI Advantage: Thriving Within Civilization's Next Big Disruption* (2025); work featured in Wired, Inc., Forbes, and Entrepreneur
+- Conference speaker across North America and Europe on AI implementation, employee engagement, and technology strategy
+- Inc. 500 Fastest Growing Companies (WeGoLook)
+- Most Influential People, 405 Business Magazine; Leadership Oklahoma City, Class XXXIII
+- Distinguished Guest Lecturer, University of Oklahoma
