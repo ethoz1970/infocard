@@ -3,7 +3,7 @@
 name: Mario Moorhead
 title: Technology Executive | AI Strategy & Implementation
 location: Baltimore City, MD
-summary: Executive technology leader focused on turning AI strategy into production capability across SaaS, services, government, and regulated environments. Proven builder of teams, platforms, and partnerships, including M&A-driven capability expansion and turnaround execution.
+summary: Creative Scientist Engineer technology leader focused on integrating AI in innovative ways to solve real problems 20+ years of experience.
 tags: [python, react, aws, devops,cloud intergrations,AI architecture,AI integration, Iot, robotics, drupal, devOps, CI pipelines, soundscapes, soundtracks]
 open_to: [Cloud intergrations,AI architecture,AI integration]
 
@@ -128,11 +128,3 @@ Senior AI/ML Engineer with 10+ years of software development experience and deep
 
 ---
 
-## Recognition & Publications
-
-- Innovator of the Year, Journal Record (2013, 2015), only two-time recipient in award history
-- Contributing author, *The AI Advantage: Thriving Within Civilization's Next Big Disruption* (2025); work featured in Wired, Inc., Forbes, and Entrepreneur
-- Conference speaker across North America and Europe on AI implementation, employee engagement, and technology strategy
-- Inc. 500 Fastest Growing Companies (WeGoLook)
-- Most Influential People, 405 Business Magazine; Leadership Baltimore City, Class XXXIII
-- Distinguished Guest Lecturer, University of Oklahoma
